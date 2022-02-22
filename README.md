@@ -7,7 +7,7 @@ Unzip  the certain .zip file and then simply run the .exe file
 
 
 # Wörd
-It will spam your text in different Colours.
+Will spam Words
 
 # Disco Lights
 Flashing Rainbow lights 
